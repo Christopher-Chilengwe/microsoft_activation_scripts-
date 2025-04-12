@@ -50,9 +50,9 @@ To run the scripts in unattended mode, check [here](https://massgrave.dev/unsupp
 | Online KMS | Windows / Office | 180 Days. Lifetime With Renewal Task |
 
 
-### Modification by ELITEKAMRUL
+### Modification by Christopher Chilengwe
 
-### Main site created by [Massgrave](https://massgrave.dev/)
+### Main site created by [Christopher Chilengwe](https://massgrave.dev/)
 All credit goes to Massgrave for the creation of the main site.
 
 For more details, refer to the respective activation details in the documentation.
